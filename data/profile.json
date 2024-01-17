@@ -22,7 +22,7 @@
       },
       {
         "name": "Javascript",
-        "logo": "https://github.com/arianamesquita/js-developer-portfolio/blob/main/data/imgs/js.png"
+        "logo": "https://github.com/arianamesquita/portfolioam/blob/main/assets/images/svg/JS.svg"
       },
       {
         "name": "MySQL",
@@ -34,11 +34,11 @@
       },
       {
         "name": "HTML",
-        "logo": "https://github.com/arianamesquita/js-developer-portfolio/blob/main/data/imgs/html.png"
+        "logo": "https://github.com/arianamesquita/portfolioam/blob/main/assets/images/svg/HTML.svg"
       },
       {
-        "name": "GitHub",
-        "logo": "https://github.com/arianamesquita/portfolioam/blob/main/assets/images/svg/github.svg"
+        "name": "Figma",
+        "logo": "https://github.com/arianamesquita/portfolioam/blob/main/assets/images/svg/Figma.svg"
       }
     ],
     "softSkills": [
