@@ -10,35 +10,35 @@
     "hardSkills": [
       {
         "name": "Git",
-        "logo": "https://github.com/arianamesquita/portfolioam/blob/main/assets/images/svg/Git.svg"
+        "logo": "https://github.com/arianamesquita/js-developer-portfolio/blob/main/data/imgs/git.png"
       },
       {
         "name": "Java",
-        "logo": "https://github.com/arianamesquita/portfolioam/blob/main/assets/images/svg/Java.svg"
+        "logo": "https://github.com/arianamesquita/js-developer-portfolio/blob/main/data/imgs/java.png"
       },
       {
         "name": "Angular",
-        "logo": "https://github.com/arianamesquita/portfolioam/blob/main/assets/images/svg/Angular.svg"
+        "logo": "https://github.com/arianamesquita/js-developer-portfolio/blob/main/data/imgs/angular.png"
       },
       {
         "name": "Javascript",
-        "logo": "https://github.com/arianamesquita/portfolioam/blob/main/assets/images/svg/JS.svg"
+        "logo": "https://github.com/arianamesquita/js-developer-portfolio/blob/main/data/imgs/js.png"
       },
       {
-        "name": "Typescript",
-        "logo": "https://github.com/arianamesquita/portfolioam/blob/main/assets/images/svg/TS.svg"
+        "name": "MySQL",
+        "logo": "https://github.com/arianamesquita/js-developer-portfolio/blob/main/data/imgs/mysql.png"
       },
       {
-        "name": "CSS",
-        "logo": "https://github.com/arianamesquita/portfolioam/blob/main/assets/images/svg/CSS.svg"
+        "name": "MongoDB",
+        "logo": "https://github.com/arianamesquita/js-developer-portfolio/blob/main/data/imgs/mongodb.png"
       },
       {
         "name": "HTML",
-        "logo": "https://github.com/arianamesquita/portfolioam/blob/main/assets/images/svg/HTML.svg"
+        "logo": "https://github.com/arianamesquita/js-developer-portfolio/blob/main/data/imgs/html.png"
       },
       {
-        "name": "Figma",
-        "logo": "https://github.com/arianamesquita/portfolioam/blob/main/assets/images/svg/Figma.svg"
+        "name": "GitHub",
+        "logo": "https://github.com/arianamesquita/portfolioam/blob/main/assets/images/svg/github.svg"
       }
     ],
     "softSkills": [
