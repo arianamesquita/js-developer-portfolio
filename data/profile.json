@@ -10,11 +10,11 @@
     "hardSkills": [
       {
         "name": "Git",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/git.png"
+        "logo": "https://github.com/arianamesquita/portfolioam/blob/main/assets/images/svg/Git.svg"
       },
       {
         "name": "Java",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/java.png"
+        "logo": "https://github.com/arianamesquita/portfolioam/blob/main/assets/images/svg/Java.svg"
       },
       {
         "name": "Angular",
@@ -22,11 +22,11 @@
       },
       {
         "name": "Javascript",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/react.png"
+        "logo": "https://github.com/arianamesquita/portfolioam/blob/main/assets/images/svg/JS.svg"
       },
       {
         "name": "Typescript",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/react.png"
+        "logo": "https://github.com/arianamesquita/portfolioam/blob/main/assets/images/svg/TS.svg"
       },
       {
         "name": "CSS",
@@ -34,11 +34,11 @@
       },
       {
         "name": "HTML",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/postgresql.png"
+        "logo": "https://github.com/arianamesquita/portfolioam/blob/main/assets/images/svg/HTML.svg"
       },
       {
         "name": "Figma",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/postgresql.png"
+        "logo": "https://github.com/arianamesquita/portfolioam/blob/main/assets/images/svg/Figma.svg"
       }
     ],
     "softSkills": [
